@@ -2,7 +2,7 @@
 
 ## Installation
 
-First off, this application only works with bash or shells that can run bash script (e.g., zsh). If you're on Linux or Mac, no extra configuration should be necessary. If you are windows, you'll need to install (Windows Subsystem for Linux (WSL))[https://docs.microsoft.com/en-us/windows/wsl/install]
+First off, this application only works with bash or shells that can run bash script (e.g., zsh). If you're on Linux or Mac, no extra configuration should be necessary. If you are windows, you'll need to install [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install)
 
 Clone this repo and name it according to the month for which you'd like fill in git squares. Navigate to the directory from your terminal. Then delete the git history by removing the `.git` directory:
 
