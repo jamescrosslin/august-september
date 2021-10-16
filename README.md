@@ -48,8 +48,7 @@ Now you can start the process all over again with `git init` starting with a dif
 
 ## Variables inside the script
 
-###Changing the number of commits in each day
-On line 11 of `commit-day.sh`, the variable `n` exists. This will randomly generate a number between 0-6 (i.e., `RANDOM%7`) and then add 10 to it by default. You can change this to numbers to suit your preferred commit range:
+You can change the number of commits in each day. On line 11 of `commit-day.sh`, the variable `n` exists. This will randomly generate a number between 0-6 (i.e., `RANDOM%7`) and then add 10 to it by default. You can change this to numbers to suit your preferred commit range:
 
 between 5 and 10 commits a day:
 ```bash
